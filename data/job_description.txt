@@ -1,0 +1,13 @@
+Title: Senior AI Software Engineer
+Location: Remote
+About Us: We are a fast-moving startup building the next generation of AI tools. 
+You will own the end-to-end development of our machine learning pipeline.
+
+Requirements:
+- 4+ years of software engineering experience.
+- Strong proficiency in Python and FastAPI.
+- Experience with large language models (LLMs) and tools like LangChain, LlamaIndex, or raw API integrations (OpenAI, Anthropic).
+- Experience deploying and scaling ML models in production (AWS/GCP, Docker, Kubernetes).
+- Familiarity with vector databases (Chroma, Pinecone, Weaviate).
+- You must be comfortable with ambiguity and taking full ownership of features.
+- A strong track record of open source contributions is a huge plus.

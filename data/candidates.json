@@ -1,0 +1,1033 @@
+[
+  {
+    "id": "CAND_001",
+    "name": "Charlie Wilson",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 1944,
+    "open_source_contributions": 19,
+    "career_trajectory": "progression",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_002",
+    "name": "Walter Jackson",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 10,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 46,
+    "open_source_contributions": 4,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_003",
+    "name": "Walter Brown",
+    "current_role": "AI Engineer",
+    "years_of_experience": 7,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 192,
+    "open_source_contributions": 2,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_004",
+    "name": "Oscar Harris",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 6,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 271,
+    "open_source_contributions": 3,
+    "career_trajectory": "flat",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_005",
+    "name": "Nina Miller",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 9,
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 50,
+    "open_source_contributions": 2,
+    "career_trajectory": "flat",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_006",
+    "name": "Nina Taylor",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 9,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 797,
+    "open_source_contributions": 24,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_007",
+    "name": "Trent Brown",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 13,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 37,
+    "open_source_contributions": 0,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_008",
+    "name": "Victor Moore",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 10,
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 230,
+    "open_source_contributions": 5,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_009",
+    "name": "Judy Thomas",
+    "current_role": "Data Scientist",
+    "years_of_experience": 13,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 50,
+    "open_source_contributions": 4,
+    "career_trajectory": "flat",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_010",
+    "name": "Heidi Davis",
+    "current_role": "Backend Developer",
+    "years_of_experience": 12,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "github_commits_last_year": 285,
+    "open_source_contributions": 3,
+    "career_trajectory": "progression",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_011",
+    "name": "Walter Brown",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 10,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 1522,
+    "open_source_contributions": 43,
+    "career_trajectory": "progression",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_012",
+    "name": "Ivan Davis",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 14,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "github_commits_last_year": 19,
+    "open_source_contributions": 4,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_013",
+    "name": "Peggy Jackson",
+    "current_role": "Lead Developer",
+    "years_of_experience": 5,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 36,
+    "open_source_contributions": 3,
+    "career_trajectory": "flat",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_014",
+    "name": "Trent Wilson",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 15,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 61,
+    "open_source_contributions": 2,
+    "career_trajectory": "flat",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_015",
+    "name": "Ivan Jackson",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 14,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 72,
+    "open_source_contributions": 3,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_016",
+    "name": "Victor Jackson",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 559,
+    "open_source_contributions": 41,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_017",
+    "name": "Heidi Wilson",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 5,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 211,
+    "open_source_contributions": 3,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_018",
+    "name": "Peggy Brown",
+    "current_role": "Lead Developer",
+    "years_of_experience": 6,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "github_commits_last_year": 264,
+    "open_source_contributions": 5,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_019",
+    "name": "Nina Davis",
+    "current_role": "Software Engineer",
+    "years_of_experience": 14,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 251,
+    "open_source_contributions": 2,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_020",
+    "name": "Victor Miller",
+    "current_role": "Data Scientist",
+    "years_of_experience": 2,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 25,
+    "open_source_contributions": 4,
+    "career_trajectory": "flat",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_021",
+    "name": "Charlie Thomas",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 573,
+    "open_source_contributions": 18,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_022",
+    "name": "Charlie Harris",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 8,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 250,
+    "open_source_contributions": 3,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_023",
+    "name": "Frank Williams",
+    "current_role": "AI Engineer",
+    "years_of_experience": 6,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 144,
+    "open_source_contributions": 3,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_024",
+    "name": "Nina Jones",
+    "current_role": "Lead Developer",
+    "years_of_experience": 13,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 28,
+    "open_source_contributions": 3,
+    "career_trajectory": "flat",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_025",
+    "name": "David Thomas",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 12,
+    "skills": [
+      "C++",
+      "CUDA",
+      "TensorFlow",
+      "Linux"
+    ],
+    "github_commits_last_year": 159,
+    "open_source_contributions": 2,
+    "career_trajectory": "progression",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_026",
+    "name": "Ivan Miller",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 4,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 1973,
+    "open_source_contributions": 45,
+    "career_trajectory": "progression",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_027",
+    "name": "Peggy Brown",
+    "current_role": "Backend Developer",
+    "years_of_experience": 1,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 147,
+    "open_source_contributions": 1,
+    "career_trajectory": "flat",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_028",
+    "name": "Grace Anderson",
+    "current_role": "Data Scientist",
+    "years_of_experience": 8,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 111,
+    "open_source_contributions": 3,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_029",
+    "name": "Charlie Wilson",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 6,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 220,
+    "open_source_contributions": 5,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_030",
+    "name": "Walter White",
+    "current_role": "Backend Developer",
+    "years_of_experience": 4,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 31,
+    "open_source_contributions": 1,
+    "career_trajectory": "progression",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_031",
+    "name": "Oscar Wilson",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 6,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 1488,
+    "open_source_contributions": 40,
+    "career_trajectory": "progression",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_032",
+    "name": "Bob Williams",
+    "current_role": "Lead Developer",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 284,
+    "open_source_contributions": 1,
+    "career_trajectory": "progression",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_033",
+    "name": "Mallory Wilson",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 5,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 115,
+    "open_source_contributions": 3,
+    "career_trajectory": "progression",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_034",
+    "name": "Grace Smith",
+    "current_role": "Backend Developer",
+    "years_of_experience": 10,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "github_commits_last_year": 91,
+    "open_source_contributions": 5,
+    "career_trajectory": "flat",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_035",
+    "name": "Mallory Davis",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 14,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 160,
+    "open_source_contributions": 0,
+    "career_trajectory": "progression",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_036",
+    "name": "Heidi Moore",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 6,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 1628,
+    "open_source_contributions": 20,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_037",
+    "name": "Judy Davis",
+    "current_role": "Software Engineer",
+    "years_of_experience": 3,
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 73,
+    "open_source_contributions": 4,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_038",
+    "name": "Walter Williams",
+    "current_role": "Backend Developer",
+    "years_of_experience": 3,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "github_commits_last_year": 266,
+    "open_source_contributions": 2,
+    "career_trajectory": "progression",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_039",
+    "name": "Ivan Harris",
+    "current_role": "Lead Developer",
+    "years_of_experience": 9,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 129,
+    "open_source_contributions": 1,
+    "career_trajectory": "flat",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_040",
+    "name": "Peggy Thomas",
+    "current_role": "AI Engineer",
+    "years_of_experience": 13,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 59,
+    "open_source_contributions": 4,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_041",
+    "name": "Zoe Jones",
+    "current_role": "AI Engineer",
+    "years_of_experience": 8,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 1490,
+    "open_source_contributions": 18,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_042",
+    "name": "Walter Jackson",
+    "current_role": "Software Engineer",
+    "years_of_experience": 3,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 262,
+    "open_source_contributions": 2,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_043",
+    "name": "Peggy White",
+    "current_role": "Data Scientist",
+    "years_of_experience": 1,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 108,
+    "open_source_contributions": 3,
+    "career_trajectory": "progression",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_044",
+    "name": "Mallory Miller",
+    "current_role": "Backend Developer",
+    "years_of_experience": 5,
+    "skills": [
+      "Ruby",
+      "Ruby on Rails",
+      "PostgreSQL",
+      "Heroku"
+    ],
+    "github_commits_last_year": 172,
+    "open_source_contributions": 2,
+    "career_trajectory": "flat",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_045",
+    "name": "David Anderson",
+    "current_role": "Data Scientist",
+    "years_of_experience": 15,
+    "skills": [
+      "C++",
+      "CUDA",
+      "TensorFlow",
+      "Linux"
+    ],
+    "github_commits_last_year": 224,
+    "open_source_contributions": 4,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_046",
+    "name": "David White",
+    "current_role": "Senior Software Engineer",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "Flask",
+      "ChromaDB",
+      "LangChain",
+      "GCP",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 1024,
+    "open_source_contributions": 45,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_047",
+    "name": "Frank White",
+    "current_role": "Data Scientist",
+    "years_of_experience": 1,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 186,
+    "open_source_contributions": 3,
+    "career_trajectory": "flat",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_048",
+    "name": "Victor Johnson",
+    "current_role": "Lead Developer",
+    "years_of_experience": 9,
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 285,
+    "open_source_contributions": 2,
+    "career_trajectory": "progression",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_049",
+    "name": "Victor Williams",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 2,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 115,
+    "open_source_contributions": 4,
+    "career_trajectory": "flat",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_050",
+    "name": "Walter Brown",
+    "current_role": "Lead Developer",
+    "years_of_experience": 6,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 190,
+    "open_source_contributions": 3,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_051",
+    "name": "David Miller",
+    "current_role": "AI Engineer",
+    "years_of_experience": 6,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Anthropic API",
+      "VectorDB",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 1932,
+    "open_source_contributions": 45,
+    "career_trajectory": "progression",
+    "past_companies_count": 5
+  },
+  {
+    "id": "CAND_052",
+    "name": "Judy Brown",
+    "current_role": "Backend Developer",
+    "years_of_experience": 15,
+    "skills": [
+      "C++",
+      "CUDA",
+      "TensorFlow",
+      "Linux"
+    ],
+    "github_commits_last_year": 196,
+    "open_source_contributions": 1,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_053",
+    "name": "Victor Jones",
+    "current_role": "Data Scientist",
+    "years_of_experience": 1,
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 11,
+    "open_source_contributions": 4,
+    "career_trajectory": "flat",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_054",
+    "name": "Mallory Jackson",
+    "current_role": "Backend Developer",
+    "years_of_experience": 3,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 268,
+    "open_source_contributions": 1,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 1
+  },
+  {
+    "id": "CAND_055",
+    "name": "Nina Johnson",
+    "current_role": "Lead Developer",
+    "years_of_experience": 4,
+    "skills": [
+      "C++",
+      "CUDA",
+      "TensorFlow",
+      "Linux"
+    ],
+    "github_commits_last_year": 146,
+    "open_source_contributions": 3,
+    "career_trajectory": "flat",
+    "past_companies_count": 2
+  },
+  {
+    "id": "CAND_056",
+    "name": "Peggy Williams",
+    "current_role": "Machine Learning Engineer",
+    "years_of_experience": 5,
+    "skills": [
+      "Python",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PyTorch",
+      "OpenAI API"
+    ],
+    "github_commits_last_year": 1504,
+    "open_source_contributions": 46,
+    "career_trajectory": "progression",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_057",
+    "name": "Heidi Jones",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 7,
+    "skills": [
+      "Java",
+      "Spring Boot",
+      "Kafka",
+      "MySQL",
+      "Kubernetes"
+    ],
+    "github_commits_last_year": 224,
+    "open_source_contributions": 1,
+    "career_trajectory": "progression",
+    "past_companies_count": 3
+  },
+  {
+    "id": "CAND_058",
+    "name": "Victor Taylor",
+    "current_role": "Full Stack Developer",
+    "years_of_experience": 9,
+    "skills": [
+      "Go",
+      "gRPC",
+      "Kubernetes",
+      "AWS",
+      "Docker"
+    ],
+    "github_commits_last_year": 258,
+    "open_source_contributions": 2,
+    "career_trajectory": "non-linear",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_059",
+    "name": "Mallory Jackson",
+    "current_role": "Lead Developer",
+    "years_of_experience": 1,
+    "skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "Celery"
+    ],
+    "github_commits_last_year": 156,
+    "open_source_contributions": 5,
+    "career_trajectory": "flat",
+    "past_companies_count": 4
+  },
+  {
+    "id": "CAND_060",
+    "name": "Trent Brown",
+    "current_role": "Data Scientist",
+    "years_of_experience": 10,
+    "skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "github_commits_last_year": 115,
+    "open_source_contributions": 5,
+    "career_trajectory": "progression",
+    "past_companies_count": 2
+  }
+]
