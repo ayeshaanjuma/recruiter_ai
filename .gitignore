@@ -1,0 +1,4 @@
+__pycache__/
+[PUB] India_runs_data_and_ai_challenge/
+data/raw/candidates.jsonl
+data/raw/sample_candidates.json
